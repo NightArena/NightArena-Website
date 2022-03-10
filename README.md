@@ -12,3 +12,5 @@ YouTube: https://nightarena.xyz/youtube
 Twitter: https://nightarena.xyz/twitter
 
 Vote: https://nightarena.xyz/vote
+
+DiscordST vote: https://nightarena.xyz/discordst
