@@ -7,6 +7,8 @@ Website: https://nightarena.xyz
 
 Discord: https://nightarena.xyz/discord
 
+Store: https://nightarena.xyz/store
+
 YouTube: https://nightarena.xyz/youtube
 
 Twitter: https://nightarena.xyz/twitter
