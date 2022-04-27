@@ -5,7 +5,7 @@ Read the licence before doing anything!
 
 Website: https://website.nightarena.net
 
-Discord: https://nightarena.xyz/discord
+Discord: https://website.nightarena.net/discord
 
 Store: https://nightarena.xyz/store
 
