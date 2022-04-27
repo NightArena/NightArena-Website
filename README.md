@@ -3,7 +3,7 @@ We do not allow people to use this exact for their use, but you can edit the cod
 Read the licence before doing anything!
 
 
-Website: https://nightarena.xyz
+Website: https://website.nightarena.net
 
 Discord: https://nightarena.xyz/discord
 
